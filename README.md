@@ -95,6 +95,5 @@
 ## 👨‍💻 المؤلف
 **Mo (Muhammad Emad Ahmed)**  
 Data Analyst | Power BI • DAX • SQL  
-مشروع تدريبي ضمن كورس تحليل البيانات – C2 Mon & Thurs 3PM Online
 
 ---
